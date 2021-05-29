@@ -4,13 +4,12 @@
 
 ### In progress
 
-- 
+- https://github.com/Frequel/LaTazza
 
 ### Backlog
 
 - https://github.com/passasooz/php-email-reader
 - https://github.com/ptkdev/all-shields-cli
-- https://github.com/Frequel/LaTazza
 - https://github.com/raffaellopaletta/ftc
 - https://github.com/polilluminato/wassword-flutter
 
