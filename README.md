@@ -13,6 +13,8 @@
 - https://github.com/raffaellopaletta/ftc
 - https://github.com/polilluminato/wassword-flutter
 
-## Linkedin
+## Social posts
+
+### Linkedin
 
 - https://www.linkedin.com/feed/update/urn:li:activity:6803217329011380224/
