@@ -23,4 +23,5 @@
 
 ```shell
 git branch review $(git rev-list --all | tail -1) && git push origin review
+google-chrome https://github.com/praticante/${PWD##*/}/compare/review...${PWD##*/}:main
 ```
