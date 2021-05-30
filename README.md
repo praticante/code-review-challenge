@@ -18,3 +18,12 @@
 ### Linkedin
 
 - https://www.linkedin.com/feed/update/urn:li:activity:6803217329011380224/
+
+## Conduct
+
+```shell
+git checkout --orphan review
+git rm -rf .
+git commit --allow-empty -m "Code Review"
+git push origin review
+```
