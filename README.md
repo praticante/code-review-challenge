@@ -22,8 +22,5 @@
 ## Conduct
 
 ```shell
-git checkout --orphan review
-git rm -rf .
-git commit --allow-empty -m "Code Review"
-git push origin review
+git branch review $(git rev-list --all | tail -1) && git push origin review
 ```
